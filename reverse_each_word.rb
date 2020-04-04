@@ -1,4 +1,4 @@
 def reverse_each_word(string)
-  string.to_a
+  (1..10).to_a
 end
   
